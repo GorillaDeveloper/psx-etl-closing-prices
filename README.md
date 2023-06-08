@@ -1,1 +1,1 @@
-# psx-etl-closing-prices
+# psx-etl-opening-and-closing-prices

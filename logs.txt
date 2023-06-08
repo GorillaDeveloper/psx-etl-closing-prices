@@ -1,0 +1,81 @@
+2023-06-08 15:37:06,867 - INFO - Start Date: 2013-11-04
+2023-06-08 15:37:06,868 - INFO - End Date: 2013-11-08
+2023-06-08 15:37:06,869 - INFO - 
+
+2023-06-08 15:37:09,390 - INFO - bucket already created
+2023-06-08 15:37:11,152 - INFO - Dataset 'PSXOpeningAndClosingPricesDataset2' already exists.
+2023-06-08 15:37:14,603 - INFO - no file paths exist in shared memory, i am waiting... index" 0
+2023-06-08 15:37:14,617 - INFO - no file paths exist in shared memory, i am waiting... index" 1
+2023-06-08 15:37:15,118 - INFO - no file paths exist in shared memory, i am waiting... index" 0
+2023-06-08 15:37:15,118 - INFO - no file paths exist in shared memory, i am waiting... index" 1
+2023-06-08 15:37:15,598 - INFO - File downloaded: 20131104_new.lis.Z
+2023-06-08 15:37:15,610 - INFO - File downloaded: 20131107_new.lis.Z
+2023-06-08 15:37:15,633 - INFO - no file paths exist in shared memory, i am waiting... index" 1
+2023-06-08 15:37:15,633 - INFO - no file paths exist in shared memory, i am waiting... index" 0
+2023-06-08 15:37:15,635 - INFO - Operating System: Windows
+2023-06-08 15:37:15,635 - INFO - Operating System: Windows
+2023-06-08 15:37:15,929 - INFO - data/PSXOpeningAndClosingPrices/2013/11-Nov/20131104_new.lis.Z file etracted: Completed
+2023-06-08 15:37:15,929 - INFO - data/PSXOpeningAndClosingPrices/2013/11-Nov/20131107_new.lis.Z file etracted: Completed
+2023-06-08 15:37:15,944 - INFO - lis file converted to dataframe
+2023-06-08 15:37:15,954 - INFO - 
+
+2023-06-08 15:37:16,139 - INFO - no file paths exist in shared memory, i am waiting... index" 1
+2023-06-08 15:37:16,140 - INFO - no file paths exist in shared memory, i am waiting... index" 0
+2023-06-08 15:37:16,647 - INFO - no file paths exist in shared memory, i am waiting... index" 1
+2023-06-08 15:37:16,648 - INFO - no file paths exist in shared memory, i am waiting... index" 0
+2023-06-08 15:37:16,854 - INFO - File downloaded: 20131105_new.lis.Z
+2023-06-08 15:37:16,855 - INFO - Operating System: Windows
+2023-06-08 15:37:17,006 - INFO - File downloaded: 20131108_new.lis.Z
+2023-06-08 15:37:17,006 - INFO - Operating System: Windows
+2023-06-08 15:37:17,064 - INFO - data/PSXOpeningAndClosingPrices/2013/11-Nov/20131105_new.lis.Z file etracted: Completed
+2023-06-08 15:37:17,085 - INFO - lis file converted to dataframe
+2023-06-08 15:37:17,098 - INFO - 
+
+2023-06-08 15:37:17,148 - INFO - no file paths exist in shared memory, i am waiting... index" 1
+2023-06-08 15:37:17,164 - INFO - no file paths exist in shared memory, i am waiting... index" 0
+2023-06-08 15:37:17,270 - INFO - data/PSXOpeningAndClosingPrices/2013/11-Nov/20131108_new.lis.Z file etracted: Completed
+2023-06-08 15:37:17,282 - INFO - lis file converted to dataframe
+2023-06-08 15:37:17,290 - INFO - 
+
+2023-06-08 15:37:17,658 - INFO - no file paths exist in shared memory, i am waiting... index" 1
+2023-06-08 15:37:17,669 - INFO - no file paths exist in shared memory, i am waiting... index" 0
+2023-06-08 15:37:17,752 - INFO - blob: data/PSXOpeningAndClosingPrices/2013/11-Nov/201307nov.csv
+2023-06-08 15:37:17,800 - INFO - blob: data/PSXOpeningAndClosingPrices/2013/11-Nov/201304nov.csv
+2023-06-08 15:37:17,989 - INFO - File downloaded: 20131106_new.lis.Z
+2023-06-08 15:37:17,989 - INFO - Operating System: Windows
+2023-06-08 15:37:18,168 - INFO - data/PSXOpeningAndClosingPrices/2013/11-Nov/20131106_new.lis.Z file etracted: Completed
+2023-06-08 15:37:18,180 - INFO - lis file converted to dataframe
+2023-06-08 15:37:18,186 - INFO - no file paths exist in shared memory, i am waiting... index" 1
+2023-06-08 15:37:18,188 - INFO - 
+
+2023-06-08 15:37:18,201 - INFO - no file paths exist in shared memory, i am waiting... index" 0
+2023-06-08 15:37:18,695 - INFO - no file paths exist in shared memory, i am waiting... index" 1
+2023-06-08 15:37:18,712 - INFO - no file paths exist in shared memory, i am waiting... index" 0
+2023-06-08 15:37:18,970 - INFO - blob: data/PSXOpeningAndClosingPrices/2013/11-Nov/201305nov.csv
+2023-06-08 15:37:19,064 - INFO - blob: data/PSXOpeningAndClosingPrices/2013/11-Nov/201308nov.csv
+2023-06-08 15:37:19,202 - INFO - no file paths exist in shared memory, i am waiting... index" 1
+2023-06-08 15:37:19,218 - INFO - no file paths exist in shared memory, i am waiting... index" 0
+2023-06-08 15:37:19,502 - INFO - file data/PSXOpeningAndClosingPrices/2013/11-Nov/201307nov.csv is already uploaded to gcs
+2023-06-08 15:37:19,528 - INFO - file data/PSXOpeningAndClosingPrices/2013/11-Nov/201304nov.csv is already uploaded to gcs
+2023-06-08 15:37:19,858 - INFO - blob: data/PSXOpeningAndClosingPrices/2013/11-Nov/201306nov.csv
+2023-06-08 15:37:20,803 - INFO - file data/PSXOpeningAndClosingPrices/2013/11-Nov/201308nov.csv is already uploaded to gcs
+2023-06-08 15:37:20,826 - INFO - file data/PSXOpeningAndClosingPrices/2013/11-Nov/201305nov.csv is already uploaded to gcs
+2023-06-08 15:37:21,626 - INFO - file data/PSXOpeningAndClosingPrices/2013/11-Nov/201306nov.csv is already uploaded to gcs
+2023-06-08 15:37:25,391 - INFO - CSV file data/PSXOpeningAndClosingPrices/2013/11-Nov/201307nov.csv transferred to BigQuery table OpeningAndClosingPrices successfully.
+2023-06-08 15:37:25,392 - INFO - in the custom big query: data/PSXOpeningAndClosingPrices/2013/11-Nov/201307nov.csv
+2023-06-08 15:37:26,037 - INFO - CSV file data/PSXOpeningAndClosingPrices/2013/11-Nov/201304nov.csv transferred to BigQuery table OpeningAndClosingPrices successfully.
+2023-06-08 15:37:26,038 - INFO - in the custom big query: data/PSXOpeningAndClosingPrices/2013/11-Nov/201304nov.csv
+2023-06-08 15:37:32,226 - INFO - CSV file data/PSXOpeningAndClosingPrices/2013/11-Nov/201306nov.csv transferred to BigQuery table OpeningAndClosingPrices successfully.
+2023-06-08 15:37:32,226 - INFO - in the custom big query: data/PSXOpeningAndClosingPrices/2013/11-Nov/201306nov.csv
+2023-06-08 15:37:32,241 - INFO - CSV file data/PSXOpeningAndClosingPrices/2013/11-Nov/201308nov.csv transferred to BigQuery table OpeningAndClosingPrices successfully.
+2023-06-08 15:37:32,242 - INFO - in the custom big query: data/PSXOpeningAndClosingPrices/2013/11-Nov/201308nov.csv
+2023-06-08 15:37:32,740 - INFO - file path does not exist, so i am waiting...1
+2023-06-08 15:37:38,992 - INFO - CSV file data/PSXOpeningAndClosingPrices/2013/11-Nov/201305nov.csv transferred to BigQuery table OpeningAndClosingPrices successfully.
+2023-06-08 15:37:38,993 - INFO - in the custom big query: data/PSXOpeningAndClosingPrices/2013/11-Nov/201305nov.csv
+2023-06-08 15:37:39,504 - INFO - file path does not exist, so i am waiting...0
+2023-06-08 15:37:39,706 - INFO - 
+
+2023-06-08 15:37:39,708 - INFO - Total Execution Time: 0:00:26.939713
+2023-06-08 15:37:39,708 - INFO - 
+
+2023-06-08 15:37:39,709 - INFO - main ends
